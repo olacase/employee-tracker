@@ -1,7 +1,7 @@
 # employee-tracker
-  [github](https://github.com/olacase/employeetracker)
+  [github](https://github.com/olacase/employee-tracker)
   
-  ![Include a screenshot]()
+  ![Include a screenshot]( ./assets/sql%20module12.webm)
   ## Table of Contents
 * [Introduction](#introduction)
 * [Installation](#installation)
